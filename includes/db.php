@@ -6,7 +6,7 @@
 	{
 		private $dbHost     = "localhost";
 	    private $dbUsername = "root";
-	    private $dbPassword = "mukul7264";
+	    private $dbPassword = "";
 	    private $dbName     = "tdata2";
 
 		function content(){
